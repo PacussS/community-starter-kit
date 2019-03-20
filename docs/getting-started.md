@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Thank you for opening this pull request! Good job!
+Congratulations on merging your fist pull request!
+Great job man!
