@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* Super app 
+* Probot out there
+* Mona's project octocat
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Probot celebrates your achivements
+* Probot messages you  
 
 ## Getting started
 
